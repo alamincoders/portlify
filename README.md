@@ -13,5 +13,5 @@ For support, email portlify@gmail.com or join our Slack channel.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/alamincoders/portlify?tab=MIT-1-ov-file)
 
